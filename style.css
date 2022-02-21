@@ -1,3 +1,7 @@
 *{
 background-image:url(my.png);
 }
+
+body{
+  font-family:bold;
+}
